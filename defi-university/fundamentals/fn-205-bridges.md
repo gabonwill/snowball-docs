@@ -34,7 +34,7 @@ Due to each of these methodologies requiring smart contracts to operate on both 
 
 ## Bridges Available
 
-There are many bridges available on every chain, meaning they are are more inter-connected than ever before. When choosing between bridges, it important to take into account a number of factors:
+There are many bridges available on every chain, meaning they are more inter-connected than ever before. When choosing between bridges, it important to take into account a number of factors:
 
 * If a bridge is trustless or centralized.
 * The fees charged to bridge your tokens.
